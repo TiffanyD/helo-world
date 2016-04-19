@@ -1,2 +1,3 @@
-print "Hello hello World world"
+x = raw_input("Insert Name: ")
+print "Hello" + x + "wohooo!"
 # helo-world

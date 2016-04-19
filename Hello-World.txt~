@@ -1,2 +1,5 @@
-print "Hello hello World world"
+x = raw_input("Insert Name: ")
+age = raw_input("Enter Age: ")
+print "Hello " + x + ", you are " + str(age) + "years old!"
+ 
 # helo-world
